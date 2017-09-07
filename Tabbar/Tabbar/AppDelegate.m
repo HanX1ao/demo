@@ -23,7 +23,7 @@
     
     //a.初始化一个tabBar控制器
     UITabBarController *tb=[[UITabBarController alloc]init];
-    //设置控制器为Window的根控制器21312312
+    //设置控制器为Window的根控制器2131231221312312
     self.window.rootViewController=tb;
     
     //b.创建子控制器
