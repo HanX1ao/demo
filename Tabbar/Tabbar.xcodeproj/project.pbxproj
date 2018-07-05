@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		35EC652220EE03FE002A8BBC /* testViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35EC652120EE03FE002A8BBC /* testViewController.m */; };
 		BB3D449B1F5FE75C00A96E91 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BB3D449A1F5FE75C00A96E91 /* main.m */; };
 		BB3D449E1F5FE75C00A96E91 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BB3D449D1F5FE75C00A96E91 /* AppDelegate.m */; };
 		BB3D44A11F5FE75C00A96E91 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB3D44A01F5FE75C00A96E91 /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		35EC652020EE03FE002A8BBC /* testViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testViewController.h; sourceTree = "<group>"; };
+		35EC652120EE03FE002A8BBC /* testViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testViewController.m; sourceTree = "<group>"; };
 		BB3D44961F5FE75C00A96E91 /* Tabbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tabbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB3D449A1F5FE75C00A96E91 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BB3D449C1F5FE75C00A96E91 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				BB3D449D1F5FE75C00A96E91 /* AppDelegate.m */,
 				BB3D449F1F5FE75C00A96E91 /* ViewController.h */,
 				BB3D44A01F5FE75C00A96E91 /* ViewController.m */,
+				35EC652020EE03FE002A8BBC /* testViewController.h */,
+				35EC652120EE03FE002A8BBC /* testViewController.m */,
 				BB3D44A21F5FE75C00A96E91 /* Main.storyboard */,
 				BB3D44A51F5FE75C00A96E91 /* Assets.xcassets */,
 				BB3D44A71F5FE75C00A96E91 /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 			files = (
 				BB3D44A11F5FE75C00A96E91 /* ViewController.m in Sources */,
 				BB3D449E1F5FE75C00A96E91 /* AppDelegate.m in Sources */,
+				35EC652220EE03FE002A8BBC /* testViewController.m in Sources */,
 				BB3D449B1F5FE75C00A96E91 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -309,6 +315,7 @@
 				BB3D44AF1F5FE75C00A96E91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
