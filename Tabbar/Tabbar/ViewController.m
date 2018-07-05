@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     UILabel *label = [[UILabel alloc] init];
+//    label.text = @"lishuijiao";
     label.text = @"韩笑测试";
     [self.view addSubview:label];
     
