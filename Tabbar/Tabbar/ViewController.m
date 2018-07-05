@@ -23,6 +23,9 @@
     label.text = @"韩笑测试";
     [self.view addSubview:label];
     
+    UIButton *button = [[UIButton alloc] init];
+    [self.view addSubview:button];
+    
     //韩笑修改
 }
 
