@@ -38,6 +38,9 @@
 
     NSLog(@"本地分支---即将合并到develop上");
     NSLog(@"hahahahahahahha");
+    
+    NSLog(@"test");
+
 }
 
 
