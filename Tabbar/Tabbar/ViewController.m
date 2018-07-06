@@ -37,6 +37,7 @@
     [self.view addSubview:view1];
 
     NSLog(@"本地分支---即将合并到develop上");
+    NSLog(@"hahahahahahahha");
 }
 
 
