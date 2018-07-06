@@ -23,6 +23,8 @@
     label.text = @"韩笑测试";
     [self.view addSubview:label];
     
+    
+    NSLog(@"develop分支");
     //韩笑修改
 }
 
