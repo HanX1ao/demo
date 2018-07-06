@@ -24,6 +24,7 @@
     [self.view addSubview:label];
     
     //韩笑修改
+    NSLog(@"master主干");
 }
 
 
