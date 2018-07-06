@@ -31,6 +31,10 @@
     [self.view addSubview:button];
     
     //韩笑修改
+    
+    //栗水蛟修改的
+    UIView *view1 = [[UIView alloc] init];
+    [self.view addSubview:view1];
 }
 
 
