@@ -31,6 +31,8 @@
     [self.view addSubview:button];
     
     //韩笑修改
+    
+    NSLog(@"hahahahahahahha");
 }
 
 
