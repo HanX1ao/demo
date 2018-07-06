@@ -25,6 +25,11 @@
     
     
     NSLog(@"develop分支");
+    
+    
+    UIButton *button = [[UIButton alloc] init];
+    [self.view addSubview:button];
+    
     //韩笑修改
 }
 
