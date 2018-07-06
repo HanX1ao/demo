@@ -35,6 +35,8 @@
     //栗水蛟修改的
     UIView *view1 = [[UIView alloc] init];
     [self.view addSubview:view1];
+
+    NSLog(@"本地分支---即将合并到develop上");
 }
 
 
